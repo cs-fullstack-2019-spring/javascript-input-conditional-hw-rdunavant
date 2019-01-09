@@ -3,30 +3,30 @@
 ## Help Topics
 
 #### Statements, Expressions, and Execution 
-https://github.com/getify/You-Dont-Know-JS/blob/master/up%20%26%20going/ch1.md#statements
-https://javascript.info/hello-world
+- https://github.com/getify/You-Dont-Know-JS/blob/master/up%20%26%20going/ch1.md#statements
+- https://javascript.info/hello-world
 
 #### variables:
-https://javascript.info/variables
-https://github.com/getify/You-Dont-Know-JS/blob/master/up%20%26%20going/ch1.md#variables
+- https://javascript.info/variables
+- https://github.com/getify/You-Dont-Know-JS/blob/master/up%20%26%20going/ch1.md#variables
 
 #### data types
-https://github.com/getify/You-Dont-Know-JS/blob/master/up%20%26%20going/ch1.md#values--types
-https://javascript.info/types
+- https://github.com/getify/You-Dont-Know-JS/blob/master/up%20%26%20going/ch1.md#values--types
+- https://javascript.info/types
 
 #### conversion
-https://github.com/getify/You-Dont-Know-JS/blob/master/up%20%26%20going/ch1.md#converting-between-types
-https://javascript.info/type-conversions
+- https://github.com/getify/You-Dont-Know-JS/blob/master/up%20%26%20going/ch1.md#converting-between-types
+- https://javascript.info/type-conversions
 
 #### input/output (you can ignore confirm)
-https://javascript.info/alert-prompt-confirm
-https://github.com/getify/You-Dont-Know-JS/blob/master/up%20%26%20going/ch1.md#input
+- https://javascript.info/alert-prompt-confirm
+- https://github.com/getify/You-Dont-Know-JS/blob/master/up%20%26%20going/ch1.md#input
 
 #### if/else statements (conditional)
-https://github.com/getify/You-Dont-Know-JS/blob/master/up%20%26%20going/ch1.md#conditionals
-https://javascript.info/comparison
-https://javascript.info/ifelse
-https://javascript.info/logical-operators
+- https://github.com/getify/You-Dont-Know-JS/blob/master/up%20%26%20going/ch1.md#conditionals
+- https://javascript.info/comparison
+- https://javascript.info/ifelse
+- https://javascript.info/logical-operators
 
 ## Exercises
 
@@ -78,8 +78,8 @@ Prints ```CORRECT``` if 1, 2, or 3 is entered. Print ```ERROR``` for everything 
 
 ## Study for tomorrow
 #### For Loops (Tomorrow morning)
-https://javascript.info/while-for#the-for-loop
+- https://javascript.info/while-for#the-for-loop
 
 #### While Loops (Tomorrow afternoon)
-https://github.com/getify/You-Dont-Know-JS/blob/master/up%20%26%20going/ch1.md#loops
-https://javascript.info/while-for#the-while-loop
+- https://github.com/getify/You-Dont-Know-JS/blob/master/up%20%26%20going/ch1.md#loops
+- https://javascript.info/while-for#the-while-loop
