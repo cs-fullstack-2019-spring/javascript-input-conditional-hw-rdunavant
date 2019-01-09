@@ -1,5 +1,4 @@
-# JavaScript-input_conditional
-
+# JavaScript-input_conditional Homework
 
 ### Exercise 1
 Print "Hello World"
@@ -22,7 +21,7 @@ Ask for the user to enter a number. Ask the user for another number. Print the s
 ### Exercise 7
 Create a variable to hold Tenessee's tax rate (9.25%). Ask the user "Enter a price". Print "The price after tax is: [NEW PRICE]".
 
-#### Exercise 8
+### Exercise 8
 Create two variables
 ```javascript
 var anyWord = [ANY NAME]
@@ -40,8 +39,8 @@ THAT IS...
 NOT CORRECT
 ```
 
-#### Exercise 9
+### Exercise 9
 Ask the user for a number. If it’s positive, print “POSITIVE”. If it’s negative, print “NEGATIVE”. If it’s zero, print ZERO.
 
-#### Exercise 10
+### Exercise 10
 Prints ```CORRECT``` if 1, 2, or 3 is entered. Print ```ERROR``` for everything else.
